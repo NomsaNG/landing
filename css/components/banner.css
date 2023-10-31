@@ -1,0 +1,15 @@
+.hero-image{
+  height: 350px;
+  background-size: auto;
+  color: white;
+  background-size: cover;
+}
+
+.hero-text{
+  padding: 120px;
+}
+
+.hero-text p, h1{
+  color: whitesmoke;
+  text-shadow: 5px 5px black;
+}

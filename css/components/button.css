@@ -1,0 +1,10 @@
+.hero-text button{
+  background-color: black;
+  color: white;
+  padding:10px;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: grey;
+}

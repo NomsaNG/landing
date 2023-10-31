@@ -1,0 +1,21 @@
+
+.icon{
+  font-size: 75px;
+  text-align: center;
+  margin: 40px;
+}
+
+.icon-1{
+  color: white;
+  font-size: 50px;
+  margin: 10px;
+}
+
+.footer p{
+  color: white;
+  font-style: italic;
+}
+
+.icon-1:hover{
+  color: aquamarine;
+}
